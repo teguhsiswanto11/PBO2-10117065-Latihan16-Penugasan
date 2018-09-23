@@ -8,7 +8,7 @@ package pbo2.pkg10117065.latihan16.penugasan;
  * Deskripsi Program : Menggunakan operator penugasan yang berfungsi untuk 
  * melakukan pengisian data,
  * jadi variabel c bisa berubah-ubah nilainya sesuai dengan hasil operasi 
- * terakhir yang dilakukan oleh c
+ * terakhir yang dilakukan oleh variabel c
  * 
  */
 public class PBO210117065Latihan16Penugasan {
